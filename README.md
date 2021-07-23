@@ -3,7 +3,7 @@
 hXtweaks is based on MTweaks which is based on Kernel Adiutor, thank you morogoku and Grarak!
 
 ## Support
-[![Support](https://t.me/haxisprojects)
+[Support](https://t.me/haxisprojects)
 
 ## Credits
 * Willi Ye, author of [KernelAdiutor](https://github.com/Grarak/KernelAdiutor) and To the creator of morogoku [MTweaks](https://github.com/morogoku/MTweaks-KernelAdiutorMOD)
