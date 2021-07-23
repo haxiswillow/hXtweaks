@@ -1,14 +1,12 @@
-# MTweaks
+# hXtweaks
 
-It is a Mod of Grarak's [KernelAdiutor](https://github.com/Grarak/KernelAdiutor) for compatibilize to Samsung Exynos.
-Thanks to Willi Ye for this great application.
+hXtweaks is based on MTweaks which is based on Kernel Adiutor, thank you morogoku and Grarak!
 
-
-## Donation
-[![PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png)](https://paypal.me/morogoku)
+## Support
+[![Support](https://t.me/haxisprojects)
 
 ## Credits
-* Willi Ye, author of [KernelAdiutor](https://github.com/Grarak/KernelAdiutor)
+* Willi Ye, author of [KernelAdiutor](https://github.com/Grarak/KernelAdiutor) and To the creator of morogoku [MTweaks](https://github.com/morogoku/MTweaks-KernelAdiutorMOD)
 
 I used following libraries:
 
@@ -46,10 +44,10 @@ _(Many sys interface paths has been taken from his [UKM-Project](https://github.
 ## License
 
     Copyright (C) 2015-2016 Willi Ye <williye97@gmail.com>
-	Copyright (C) 2017 morogoku <morogoku@hotmail.com>
+	Copyright (C) 2021 morogoku <gachermodern2@gmail.com>
 	
     
-    MTweaks is free software: you can redistribute it and/or modify
+    hXtweaks is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
